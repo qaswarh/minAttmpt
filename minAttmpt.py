@@ -1,6 +1,6 @@
 """ Score points with min number of attempts to reach the target
-starting with points[0] each points[i] is an attempt irrespective of (points[i] - points[0]) != target
-problem get solved when points[i] - points[0] >= target """
+Starting with points[0], each points[i] is an attempt irrespective of (points[i] - points[0]) != target
+Problem get solved when points[i] - points[0] >= target """
 
 
 target = 11
